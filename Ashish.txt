@@ -1,2 +1,4 @@
 I am a Java programmer
 test
+
+autoamtion training
